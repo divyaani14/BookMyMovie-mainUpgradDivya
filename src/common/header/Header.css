@@ -11,15 +11,16 @@
   -webkit-animation: rotation 8s infinite linear;
 }
 
-.invalidlogin {
-  color: red;
-}
+
 
 .loginModal {
   outline: 0;
   top: 50%;
   left: -50%;
   position: relative;
+}
+.invalidlogin {
+  color: red;
 }
 
 @keyframes rotation {
