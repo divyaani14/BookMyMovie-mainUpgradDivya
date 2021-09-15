@@ -1,2 +1,1 @@
-# BookMyMovie
-Movie Booking application using frontend
+Book my movie app using reactjs
