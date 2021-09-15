@@ -7,12 +7,13 @@ import Tabs from "@material-ui/core/Tabs";
 import Tab from "@material-ui/core/Tab";
 import Typography from "@material-ui/core/Typography";
 import Box from "@material-ui/core/Box";
-import PropTypes from "prop-types";
 import logo from "../../assets/logo.svg";
 import FormControl from "@material-ui/core/FormControl";
 import FormHelperText from "@material-ui/core/FormHelperText";
 import Input from "@material-ui/core/Input";
 import InputLabel from "@material-ui/core/InputLabel";
+import PropTypes from "prop-types";
+
 import { Link } from "react-router-dom";
 import "./Header.css";
 
